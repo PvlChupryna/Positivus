@@ -23,7 +23,7 @@
         </td>
         <td style="margin-left: 200px;">
            <a href="https://pvlchupryna.github.io/Positivus/" title="Go to demo" target="_blank" rel="noopener noreferrer">
-                <img  width="150" src="./docs/img/positivus-prev.png" alt="demo">
+                <img  width="150" src="./docs/img/pozitivus-prev.png" alt="demo">
            </a>
         </td>
     </tr>
